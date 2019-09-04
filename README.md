@@ -1,5 +1,3 @@
-# evar
-
 # Explainable Video Action Reasoning via Prior Knowledge and State Transitions
 Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wang, Mohan Kankanhalli
 
