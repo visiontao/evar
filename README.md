@@ -4,8 +4,8 @@ Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wong, Mohan Kankanhalli
 Our paper can be found here: https://arxiv.org/abs/1908.10700
 
 # Setup
-Ubuntu 16.04
-Keras
+Ubuntu 16.04 \
+Keras  \
 Python2.7 
 
 # Citation
