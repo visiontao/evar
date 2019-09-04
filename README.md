@@ -35,6 +35,7 @@ e.g. "Subject5, taking_medicine, 0126143431, 70, 135, open", it denotes follows:
         person_id = data_anno[k]['person_id']
         video_label = data_anno[k]['video_label']
         video_id = data_anno[k]['video_id']
+        obj_id = data_anno[k]['obj_id']
         obj_label = data_anno[k]['obj_label']
         frame_id = data_anno[k]['frame_id']
         roi = data_anno[k]['roi']
