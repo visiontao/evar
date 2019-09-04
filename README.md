@@ -4,9 +4,9 @@ Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wang, Mohan Kankanhalli
 Our paper can be found here: https://arxiv.org/abs/1908.10700
 
 # Setup
-Ubuntu \
+Ubuntu 16.04
 Keras
-Python2.7 \
+Python2.7 
 
 # Citation
 If our code and annotations are useful for you, please cite the following paper:
