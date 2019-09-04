@@ -5,7 +5,7 @@ Our paper can be found here: https://arxiv.org/abs/1908.10700 \
 CAD-120 dataset can be found here: http://pr.cs.cornell.edu/humanactivities/data.php
 
 # An overview of our action reasoning framework
-![Framework](framework.png)
+![Framework](framework.png | width=30)
 
 # Video graph representation
 ![Video_Graph](video_graph.png)
