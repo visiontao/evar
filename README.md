@@ -1,5 +1,5 @@
 # Explainable Video Action Reasoning via Prior Knowledge and State Transitions
-Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wang, Mohan Kankanhalli
+Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wong, Mohan Kankanhalli
 
 Our paper can be found here: https://arxiv.org/abs/1908.10700
 
