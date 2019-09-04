@@ -22,7 +22,7 @@ e.g. "Subject5, taking_medicine, 0126143431, 70, 135, open", it denotes follows:
 
 ## 2. splits: spliting videos for training and testing
 ## 3. knowledge: concerned objects, attributes, relationships and actions 
-## 4. states: attributes and relationships for training.
+## 4. states: attributes and relationships for training
 ## 5. all: annotated objects, attributes, relationships for all videos
 
 **An example of dataloader (json file):**
