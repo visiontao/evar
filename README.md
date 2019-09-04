@@ -1,7 +1,7 @@
 # Explainable Video Action Reasoning via Prior Knowledge and State Transitions
 Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wong, Mohan Kankanhalli
 
-Our paper can be found here: https://arxiv.org/abs/1908.10700
+Our paper can be found here: https://arxiv.org/abs/1908.10700 \
 CAD-120 dataset can be found here: http://pr.cs.cornell.edu/humanactivities/data.php
 
 # Setup
@@ -25,7 +25,7 @@ e.g. "Subject5, taking_medicine, 0126143431, 70, 135, open", it denotes follows:
 ## 4. states: attributes and relationships for training.
 ## 5. all: annotated objects, attributes, relationships for all videos
 
-# An example of dataloader (json file):
+**An example of dataloader (json file):**
 
     file_name_json = os.path.join('annotations/states/attr_01.json')    
     with open(file_name_json, 'r') as f:
