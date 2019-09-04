@@ -8,7 +8,7 @@ CAD-120 dataset can be found here: http://pr.cs.cornell.edu/humanactivities/data
 ![Framework](framework.png){:height="50%" width="50%"}
 
 # Video graph representation
-![Video_Graph](video_graph.png)
+![Video_Graph](video_graph.png){:height="50%" width="50%"}
 
 
 # Setup
