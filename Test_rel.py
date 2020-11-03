@@ -137,8 +137,6 @@ for test_id in range(2, 3):
                     for n in range(rel_pred.shape[1]):                             
                         str_rel_pred = '{:.5f}'.format(rel_pred[0][n])
                         rel_pred_list.append(str_rel_pred)
-
-                    result_rel['rel_list'].append(rel_pred_list)
                 else:
                     rel_pred_list = []
                     for rel in rel_list:
