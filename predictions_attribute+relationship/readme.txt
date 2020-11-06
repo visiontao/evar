@@ -4,5 +4,6 @@ This folder contains both the attribute and relationship predictions.
 
 2. The number in file ``1_30_attr.json'' and ``1_30_rel.json'' denotes the start and end frame of the video, please see the annotations/video_clips.txt
 
-3. For attribute resutls, the prediction is a 2-dim vector, corresponding to annotations/knowledge/attribute_list.txt
+3. For both attribute and relationship predictions, the value ``-1'' denotes the objects are occluded or out of view, and thus there is no prediction on that frame.
+   For attribute resutls, the prediction is a 2-dim vector, corresponding to annotations/knowledge/attribute_list.txt
    For relation results, the prediction is a 6-dim vector, corresponding to annotations/knowledge/relation_list.txt
