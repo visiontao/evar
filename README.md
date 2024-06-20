@@ -2,7 +2,7 @@
 Tao Zhuo, Zhiyong Cheng, Peng Zhang, Yongkang Wong, Mohan Kankanhalli
 
 Our paper can be found here: https://arxiv.org/abs/1908.10700 \
-CAD-120 dataset can be found here: http://pr.cs.cornell.edu/humanactivities/data.php
+CAD-120 dataset can be found here: http://pr.cs.cornell.edu/humanactivities/data.php or https://zenodo.org/records/495570#.Yv8809JBxkg
 
 # An overview of our action reasoning framework
 ![Framework](framework.png)
